@@ -1,0 +1,15 @@
+{
+  "name": "Kuaray",
+  "role": "orchestrator",
+  "reads": [
+    "docs/BUSINESS_CONTEXT.md",
+    "docs/DEFINITION_OF_DONE.md",
+    "docs/VITRINE_EDITORIAL_RULES.md"
+  ],
+  "can_write": [
+    ".openclaw/tasks/active-tasks.json"
+  ],
+  "can_merge": false,
+  "can_approve": false,
+  "priority": "highest"
+}
