@@ -1,0 +1,10 @@
+{
+  "id": "T-KUARAY-01",
+  "title": "Criar endpoint GET /health",
+  "status": "queued",
+  "owner": "kuaray",
+  "agents": {
+    "implementation": "codex",
+    "reviewers": ["gemini"]
+  }
+}
